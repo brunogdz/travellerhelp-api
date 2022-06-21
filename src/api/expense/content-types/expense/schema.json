@@ -4,7 +4,8 @@
   "info": {
     "singularName": "expense",
     "pluralName": "expenses",
-    "displayName": "Expense"
+    "displayName": "Expense",
+    "description": ""
   },
   "options": {
     "draftAndPublish": false
@@ -29,6 +30,10 @@
       "relation": "manyToOne",
       "target": "api::category.category",
       "inversedBy": "expenses"
+    },
+    "cotation": {
+      "type": "decimal",
+      "required": true
     }
   }
 }
