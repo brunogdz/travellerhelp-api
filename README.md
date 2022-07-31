@@ -14,7 +14,7 @@ git clone https://github.com/brunogdz/travellerhelp-api
 After the clone you can run this
 
 ```sh
-cd financeTrip-api
+cd travellerhelp-api
 yarn
 ```
 
