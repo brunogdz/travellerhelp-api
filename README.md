@@ -1,4 +1,24 @@
-# 🚀 Getting started with Strapi
+# Traveller Help
+
+Developed by Bruno Gomes
+
+## About the project
+
+Traveller Help is to help users to organize their expenses. You can add your expenses in other coins and see how much you spent in reais. The frontend and backed are implemented seperately. If you want to know more about the frontend you can access here: <a href="https://github.com/brunogdz/travellerhelp">App</a>
+
+### Instalation  
+
+```sh 
+git clone https://github.com/brunogdz/travellerhelp-api
+```
+After the clone you can run this
+
+```sh
+cd financeTrip-api
+yarn
+```
+
+# Application with Strapi
 
 Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html) (CLI) which lets you scaffold and manage your project in seconds.
 
@@ -36,7 +56,7 @@ yarn build
 
 Strapi gives you many possible deployment options for your project. Find the one that suits you on the [deployment section of the documentation](https://docs.strapi.io/developer-docs/latest/setup-deployment-guides/deployment.html).
 
-## 📚 Learn more
+## 📚 Learn more about strapi
 
 - [Resource center](https://strapi.io/resource-center) - Strapi resource center.
 - [Strapi documentation](https://docs.strapi.io) - Official Strapi documentation.
@@ -46,12 +66,22 @@ Strapi gives you many possible deployment options for your project. Find the one
 
 Feel free to check out the [Strapi GitHub repository](https://github.com/strapi/strapi). Your feedback and contributions are welcome!
 
-## ✨ Community
-
-- [Discord](https://discord.strapi.io) - Come chat with the Strapi community including the core team.
-- [Forum](https://forum.strapi.io/) - Place to discuss, ask questions and find answers, show your Strapi project and get feedback or just talk with other Community members.
-- [Awesome Strapi](https://github.com/strapi/awesome-strapi) - A curated list of awesome things related to Strapi.
-
 ---
 
-<sub>🤫 Psst! [Strapi is hiring](https://strapi.io/careers).</sub>
+### Meta
+
+Bruno Gomes - @brunogdev - contact@brunogdev.com
+
+[https://github.com/brunogdz](github.com/brunogdz)
+
+## Contributing
+
+1. Fork it (<https://github.com/brunogdz/travellerhelp-api>)
+2. Create your feature branch (`git checkout -b feature/fooBar`)
+3. Commit your changes (`git commit -am 'Add some fooBar'`)
+4. Push to the branch (`git push origin feature/fooBar`)
+5. Create a new Pull Request
+
+<sub>🥶😎✌ I hope you like this project!</sub>
+
+
